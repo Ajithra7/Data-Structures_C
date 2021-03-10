@@ -1,4 +1,4 @@
-/*Ajithra - C Implementation of DLL : Create of doubly linked list, all insert and delete operations, search an element in the list and traverse the list.
+/*C Implementation of DLL : Create of doubly linked list, all insert and delete operations, search an element in the list and traverse the list.
 */
 
 #include<stdio.h>
