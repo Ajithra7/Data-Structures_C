@@ -1,4 +1,4 @@
-//Ajithra_to create and traverse and delete node in Circular Linked List
+// create and traverse and delete node in Circular Linked List
  
 
 #include <stdio.h>
