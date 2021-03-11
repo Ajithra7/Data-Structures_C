@@ -1,4 +1,4 @@
-//Ajithra - c program  create a binary search tree, delete a node from the tree and search a data in the tree.
+//c program  create a binary search tree, delete a node from the tree and search a data in the tree.
 #include<stdio.h>
 #include<conio.h>
 
