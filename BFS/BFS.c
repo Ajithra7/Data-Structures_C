@@ -32,10 +32,4 @@ void main() {
 	   printf("%d\t",i); else
 	   printf("\n Bfs is not possible");
 	getch();
-}g vertex:");
-        scanf("%d",&v);
-            visited[v]=1;
-        printf("%d\t",v);
-            bfs(v);
-            getch();
-    }
+}
