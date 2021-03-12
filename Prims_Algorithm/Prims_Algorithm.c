@@ -11,7 +11,9 @@ void main()
 {
  
 	
- 
+ 	printf("\n----------------------------------");
+	printf("\nImplementation of Prims Algorithm");
+    	printf("\n----------------------------------");
 	printf("\nEnter the number of nodes:");
  
 	scanf("%d",&n);
