@@ -1,2 +1,1 @@
-# Advanced-Data-Structure
-S1 DS
+# Advanced-Data-Structures
